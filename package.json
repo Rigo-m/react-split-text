@@ -29,7 +29,7 @@
   "peerDependencies": {
     "react": ">=16"
   },
-  "name": "@cyriacbr/react-split-text",
+  "name": "@rigo-m/react-split-text",
   "author": "CyriacBr",
   "module": "dist/react-split-text.esm.js",
   "keywords": [

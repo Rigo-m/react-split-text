@@ -6,6 +6,10 @@ export interface LineWrapperProp<T = any> {
    */
   lineIndex: number;
   /**
+   * The total number of lines
+   */
+  totalLines: number;
+  /**
    * Extra props forwarded from SplitText.
    */
   extraProps?: T;
